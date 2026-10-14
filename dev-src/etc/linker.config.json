@@ -1,0 +1,14 @@
+{
+	"provideLibs": [	
+		    "libdummy_fmtlib_dev-x86_64-v2.so",
+		    "libdummy_fmtlib_dev.so",
+		    "libdummy_headers_fmtlib-x86_64-v2.so",
+		    "libdummy_headers_fmtlib.so",
+		    "libdummy_pkgconfig_fmtlib-x86_64-v2.so",
+		    "libdummy_pkgconfig_fmtlib.so"
+	],
+	"requireLibs": [	
+		    "libdummy-fmtlib.so"
+	],
+	"visible": true
+}
